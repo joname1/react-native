@@ -74,7 +74,3 @@ We have a list of [beginner friendly issues](https://github.com/facebook/react-n
 React Native is [MIT licensed](./LICENSE).
 
 React Native documentation is [Creative Commons licensed](./LICENSE-docs).
-
----
-
-<img src="https://avatars2.githubusercontent.com/u/69631?s=200&v=4" width="50"></img>
